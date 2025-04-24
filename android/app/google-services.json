@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "343675640189",
+    "project_id": "refrigerator-iot-system",
+    "storage_bucket": "refrigerator-iot-system.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343675640189:android:7474d0110959d008a09414",
+        "android_client_info": {
+          "package_name": "com.example.refrigerator_iot_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm4tES8riDvyKX5qCwj_JTYX3hDlhOuSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
